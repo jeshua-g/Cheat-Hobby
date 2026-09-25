@@ -25,7 +25,7 @@ Press **DEL** to open the menu.
 - **No jumpscares**  freezes the AI schedule and zeroes the scare flags
 - **Lamp always on**
 - **Fast clock**  0.5 s per hour instead of 110 s
-- **Skip to 6 AM**  finish the night instantly
+- **Skip to 5 AM**  finish the night instantly 
 - Live readouts: sanity value + current hour
 
 ### Living Room
