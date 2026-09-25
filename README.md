@@ -38,7 +38,7 @@ Press **DEL** to open the menu.
 - Works through the dynamically discovered game camera
 
 ### Extras
-- **F9 dump** — writes a full object/property dump to `ue_dump.txt`
+- **F9 dump**  writes a full object/property dump to `ue_dump.txt`
 - Dumper-7 SDK included (press F8 in-game) for offset research
 - Everything logs to `imgui_log.txt` for debugging
 
